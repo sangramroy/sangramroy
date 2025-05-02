@@ -7,7 +7,11 @@
 
 - 🌱 Software Engineer with hands-on experience in C++ development, system performance testing, and protocol-level debugging across telecom (VoLTE/SIP/IMS), embedded (RADAR/CAN/GPS), and automotive domains. Skilled in multi-threading, unit testing, and Python-based test automation using LLMs. Possess strong knowledge of Object-Oriented Design, Data Structures & Algorithms, and Advanced C++ concepts, with exposure to Linux and QNX environments.
 
-- 🤝 I’m looking for help with **Open Source Contribution**
+- 🤝 Contributing to **Open Source**
+
+- With help of LLMs and AI agents building KAlgotrek -
+
+- KAlgotrek - An AI based trading system helping traders to backtest their strategies in financial markets and providing Signals when Market conditions matches their strategy.
 
 - 📫 How to reach me **sangramroy123@gmail.com**
 
