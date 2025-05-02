@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sangramroy123@gmail.com**
 
-- ⚡ Fun fact **A lazy guy with AI utilisation**
+- ⚡  **Currently learning System Design (LLD + HLD)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
