@@ -1,13 +1,11 @@
 [![MasterHead](https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif)
 <h1 align="center">Hi 👋, I'm Sangram Kumar Roy</h1>
-<h3 align="center">A passionate software developer from India | Ex-Capgemini</h3>
+<h3 align="center">A passionate software developer from India | Ex-KPIT | Ex-Capgemini</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangramroy&label=Profile%20views&color=0e75b6&style=flat" alt="sangramroy" /> </p>
 
-- 🔭 I’m currently working on **Self-Development**
-
-- 🌱 I’m currently learning **Golang and brushing up CS Fundamentals**
+- 🌱 Software Engineer with hands-on experience in C++ development, system performance testing, and protocol-level debugging across telecom (VoLTE/SIP/IMS), embedded (RADAR/CAN/GPS), and automotive domains. Skilled in multi-threading, unit testing, and Python-based test automation using LLMs. Possess strong knowledge of Object-Oriented Design, Data Structures & Algorithms, and Advanced C++ concepts, with exposure to Linux and QNX environments.
 
 - 🤝 I’m looking for help with **Open Source Contribution**
 
